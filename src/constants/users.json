@@ -1298,4 +1298,17 @@
     "gender": true,
     "age": 146
   }
+}, {
+  "id": 101,
+  "username": "bedrock",
+  "email": "ravi.be2002@gmail.com",
+  "isActive": true,
+  "position": "Front-end Developer",
+  "password": "Br!==Jesus",
+  "personalInfo": {
+    "first_name": "Behzad",
+    "last_name": "Ravi",
+    "gender": true,
+    "age": 24
+  }
 }]
