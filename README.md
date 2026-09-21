@@ -4,6 +4,9 @@
 
 ### v0.0.0
  - Initial fork from the course project.
-### v1.0.0
+### v0.1.0
  - Keeping the basic architecture (directory structure) of the react project
  - All the code has been purged.
+### v0.2.0
+ - Migrated from Tailwind to Bootstrap (Not the React Component based Bootstrap).
+ - Completed the UI and the logic of the Login page, waiting to complete the dashboard page.
